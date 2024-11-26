@@ -65,6 +65,18 @@ section[epub|type~="z3998:scene"] > p{
 }
 /* End core drama */
 
+/* Stage direction abbr */
+abbr[epub|type~="z3998:stage-direction"]{
+	font-style: normal;
+	font-variant: all-small-caps;
+}
+
+abbr[epub|type~="z3998:stage-direction"]::before,
+abbr[epub|type~="z3998:stage-direction"]::after{
+	content: "";
+}
+/* End stage direction abbr */
+
 /* Dramatis Personae */
 [epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
