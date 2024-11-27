@@ -34,15 +34,16 @@
 		<meta property="term" refines="#subject-1">sh85089756</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Comedy</meta>
+		<meta property="se:subject">Drama</meta>
+		<dc:description id="description">Napoleon engages in a battle of wits to reclaim some stolen letters.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;After the Battle of Lodi, General Napoleon sits in an inn and eats his dinner when a Lieutenant comes in and tells him that his dispatches have been stolen. Napoleon determines that the strange lady also staying in the inn has them in her possession, and thus begins a battle of wits for the papers and over Napoleon’s philosophy.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Man of Destiny&lt;/i&gt; was written and first performed in 1897, and has been adapted for radio and television. It was first published in the collection &lt;i&gt;Plays Pleasant&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4024</dc:source>
 		<dc:source>https://archive.org/details/playspleasantunp0002shaw/</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Man_of_Destiny</meta>
