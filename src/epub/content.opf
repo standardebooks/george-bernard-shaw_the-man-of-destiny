@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-11-30T19:43:42Z</dc:date>
+		<meta property="dcterms:modified">2024-11-30T19:43:42Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,14 +38,14 @@
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">Napoleon engages in a battle of wits to reclaim some stolen letters.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;After the Battle of Lodi, General Napoleon sits in an inn and eats his dinner when a Lieutenant comes in and tells him that his dispatches have been stolen. Napoleon determines that the strange lady also staying in the inn has them in her possession, and thus begins a battle of wits for the papers and over Napoleon’s philosophy.&lt;/p&gt;
+			&lt;p&gt;After the Battle of Lodi, General Napoleon is sitting in an inn and eating his dinner when a Lieutenant arrives to tell him that some of his dispatches have been stolen. Napoleon determines that a strange lady also staying in the inn has them in her possession, and thus begins a battle of wits for the papers—and over Napoleon’s philosophy.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Man of Destiny&lt;/i&gt; was written and first performed in 1897, and has been adapted for radio and television. It was first published in the collection &lt;i&gt;Plays Pleasant&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4024</dc:source>
 		<dc:source>https://archive.org/details/playspleasantunp0002shaw/</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">16226</meta>
+		<meta property="se:reading-ease.flesch">67.76</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Man_of_Destiny</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_the-man-of-destiny</meta>
 		<dc:creator id="author">George Bernard Shaw</dc:creator>
@@ -75,6 +75,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
