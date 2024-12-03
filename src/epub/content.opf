@@ -36,6 +36,8 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">Napoleon engages in a battle of wits to reclaim some stolen letters.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;After the Battle of Lodi, General Napoleon is sitting in an inn and eating his dinner when a Lieutenant arrives to tell him that some of his dispatches have been stolen. Napoleon determines that a strange lady also staying in the inn has them in her possession, and thus begins a battle of wits for the papers—and over Napoleon’s philosophy.&lt;/p&gt;
