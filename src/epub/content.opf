@@ -53,7 +53,7 @@
 		<dc:creator id="author">George Bernard Shaw</dc:creator>
 		<meta property="file-as" refines="#author">Shaw, George Bernard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_Bernard_Shaw</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79006533</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79006533</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Joseph Denis Odevaere</dc:contributor>
 		<meta property="file-as" refines="#artist">Odevaere, Joseph Denis</meta>
