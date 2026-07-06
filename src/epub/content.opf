@@ -51,7 +51,7 @@
 		<meta property="schema:wordCount">15994</meta>
 		<meta property="schema:educationalLevel">67.76</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Man_of_Destiny" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/george-bernard-shaw_the-man-of-destiny" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">George Bernard Shaw</dc:creator>
