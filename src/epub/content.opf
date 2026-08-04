@@ -40,7 +40,7 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>Napoleon engages in a battle of wits to reclaim some stolen letters.</dc:abstract>
+		<meta property="schema:abstract">Napoleon engages in a battle of wits to reclaim some stolen letters.</meta>
 		<dc:description>
 			&lt;p&gt;After the Battle of Lodi, General Napoleon is sitting in an inn and eating his dinner when a Lieutenant arrives to tell him that some of his dispatches have been stolen. Napoleon determines that a strange lady also staying in the inn has them in her possession, and thus begins a battle of wits for the papers—and over Napoleon’s philosophy.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Man of Destiny&lt;/i&gt; was written and first performed in 1897, and has been adapted for radio and television. It was first published in the collection &lt;i&gt;Plays Pleasant&lt;/i&gt;.&lt;/p&gt;
