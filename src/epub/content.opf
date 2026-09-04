@@ -30,8 +30,8 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Man of Destiny</dc:title>
 		<meta property="file-as" refines="#title">Man of Destiny, The</meta>
-		<dc:subject id="subject-1">Napoleon I, Emperor of the French, 1769-1821 -- Drama</dc:subject>
-		<dc:subject id="subject-2">Italy -- Drama</dc:subject>
+		<dc:subject id="subject-1">Napoleon I, Emperor of the French, 1769-1821--Drama</dc:subject>
+		<dc:subject id="subject-2">Italy--Drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85089756</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
